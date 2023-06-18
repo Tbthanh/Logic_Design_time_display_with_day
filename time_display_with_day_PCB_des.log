@@ -1,0 +1,12 @@
+# Writing all output to: D:\TAI_LIEU\project\Logic_Design_time_display_with_day\time_display_with_day_PCB_des.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+
