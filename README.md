@@ -1,5 +1,4 @@
 # Logic_Design_time_display_with_day<br>
-This is the project for Digital Electronic (ET3220 - Điện Tử Số) at HUST.
 
 **Team's member:**<br>
 Đinh Quoc An<br>
